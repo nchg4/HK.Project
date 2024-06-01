@@ -1,0 +1,55 @@
+body{
+    background-color: #a98e7e;
+}
+
+img{
+    width:  500px;
+    height: 650px;   
+ }
+
+ h1{
+    color: #000000;
+  font-family: Monospace, DejaVu Sans Mono;
+  text-align: center;
+  font-size: 70px;
+  }
+
+  p {
+    text-align: center;
+    color: black;
+  }
+
+  
+
+  button{
+    background-color: #000000; 
+    border:color(from color srgb r g b);
+    color: rgb(199, 182, 182);
+    padding: 15px 32px;
+    text-align: justify;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  }
+  
+
+  /* unvisited link */
+a:link {
+    color: rgb(255, 255, 255);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(255, 255, 255);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(127, 121, 121);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(255, 255, 255);
+  }
